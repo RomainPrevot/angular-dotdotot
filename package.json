@@ -1,0 +1,9 @@
+{
+  "name": "angular-dotdotdot",
+  "version": "0.0.2",
+  "description": "angular-dotdotot",
+  "main": "js/angular-dotdotdot.js",
+  "dependencies": {
+    "dotdotdot": "^1.7.0"
+  }
+}
